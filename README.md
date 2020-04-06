@@ -2,7 +2,7 @@
 
 #### _A web app for creating and managing a bank account, 1/27/2020_
 
-#### By _*SP, BT**_
+#### By _*Steph Podolak, Benjamin Thom**_
 
 ## Description
 
@@ -40,4 +40,4 @@ _Made using HTML, CSS, Bootstrap 3.3.7 and JQuery._
 
 *MIT License*
 
-Copyright (c) 2020 **_SP & BT_**
+Copyright (c) 2020 **_Steph Podolak & Benjamin Thom_**
